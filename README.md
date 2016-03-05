@@ -6,4 +6,5 @@ Synchronizes weather information from OpenWeatherMap on Android Phones and Weara
 Objectives-
 --------------
 -Create a Watchface which gets weather data from mobile module
--Implment Data Layer
+
+-Implement Data Layer
