@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="custom_bg">#0091EA</color>
+    <color name="base_bg">#212121</color>
+
+    <color name="digital_text">#ffffff</color>
+    <color name="datetext">#000000</color>
+    <color name="highttext">#FFFFFF</color>
+    <color name="lowttext">#BDBDBD</color>
+</resources>
+

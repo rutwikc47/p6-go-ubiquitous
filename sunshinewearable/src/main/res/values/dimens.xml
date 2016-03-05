@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+
+    <dimen name="digital_x_offset">42dp</dimen>
+    <dimen name="digital_x_offset_round">50dp</dimen>
+    <dimen name="digital_y_offset">80dp</dimen>
+    <dimen name="digital_y_offset_round">100dp</dimen>
+
+    <dimen name="digital_rx_offset">30dp</dimen>
+    <dimen name="digital_ry_offset">150dp</dimen>
+
+    <dimen name="digital_datetext">17dp</dimen>
+    <dimen name="digital_datetext_round">17dp</dimen>
+    <dimen name="digital_dx_offset">30dp</dimen>
+    <dimen name="digital_dx_offset_round">43dp</dimen>
+    <dimen name="digital_dy_offset">110dp</dimen>
+    <dimen name="digital_dy_offset_round">130dp</dimen>
+
+    <dimen name="digital_temptext">27dp</dimen>
+    <dimen name="digital_temptext_round">27dp</dimen>
+    <dimen name="digital_tx_offset">76dp</dimen>
+    <dimen name="digital_tx_offset_round">90dp</dimen>
+    <dimen name="digital_ty_offset">172dp</dimen>
+    <dimen name="digital_ty_offset_round">192dp</dimen>
+    <dimen name="digital_ltx_offset">128dp</dimen>
+    <dimen name="digital_ltx_offset_round">137dp</dimen>
+
+    <dimen name="digital_bitx_offset">23dp</dimen>
+    <dimen name="digital_bitx_offset_round">40dp</dimen>
+    <dimen name="digital_bity_offset">145dp</dimen>
+    <dimen name="digital_bity_offset_round">165dp</dimen>
+
+    <dimen name="mbitmap_width">45dp</dimen>
+    <dimen name="mbitmap_height">35dp</dimen>
+</resources>
